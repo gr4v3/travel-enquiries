@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<!-- 
+App-o-Mat jQuery Mobile Cordova starter template
+Copyright 2014 Lou Franco
+https://github.com/app-o-mat/jqm-cordova-template-project
+http://app-o-mat.com
+
+MIT License
+https://github.com/app-o-mat/jqm-cordova-template-project/LICENSE.md
+-->
+<head>	
+	<meta charset="utf-8">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+	<title>TravelCentral24</title>
+	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" href="lib/jquery-mobile/css/jquery.mobile-1.4.0.min.css" />
+	
+	<script type="text/javascript" src="lib/jquery-mobile/js/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="lib/jquery-mobile-router/js/jquery.mobile.router.min.js"></script>
+	<script type="text/javascript" src="lib/jquery-mobile/js/jquery.mobile-1.4.0.min.js"></script>
+	<script type="text/javascript" src="js/index.js"></script>
+</head>
+<body>
+
+<div data-role="page" id="auth">
+	<div data-role="header" data-position="fixed"><h1>TravelCentral24 Market Enquiries</h1></div>
+	<div role="main" class="ui-content" id="auth-content">
+        <p>
+			<label for="email">Type your email for data consistency in the system</label>
+			<input type="email" id="email" name="email" />
+			<a class="ui-btn" onclick="javascript:appomat.app.auth();" href="#">seguinte</a>
+		</p>
+	</div>
+</div>
+
+<div data-role="page" id="home">
+	<div data-role="header" data-position="fixed"><h1>TravelCentral24 Market Enquiries</h1></div>
+	<div role="main" class="ui-content" id="home-content">
+        <p><a class="ui-btn" href="#enquiry">new enquiry</a></p>
+        <p><a class="ui-btn" href="#reports">report to server</a></p>
+		<p><a class="ui-btn" href="#stats">view stats</a></p>
+		<p><a class="ui-btn" onclick="javascript:appomat.app.exit();" href="#">exit</a></p>
+	</div>
+</div>
+
+<div data-role="page" id="enquiry">
+	<div data-role="header" data-position="fixed">
+		<h1>Enquiry #<span class="counter"></span></h1><a href="#home" data-icon="arrow-l" class="ui-btn-left">Home</a>
+	</div>
+	<div role="main" class="ui-content">
+            <form id="enquiry-form" data-ajax="false">
+                <input type="hidden" id="enquiry_id" name="enquiry_id" />
+                <p>
+                    <label for="nationality">What is your nationality?</label>
+                    <select id="nationality" name="nationality" required>
+                        <option value="british">British</option>
+                        <option value="dutch">Dutch</option>
+                        <option value="french">French</option>
+                        <option value="german">German</option>
+                        <option value="portuguese">Portuguese</option>
+                        <option value="scandinavian">Scandinavian</option>
+                        <option value="spanish">Spanish</option>
+                        <option value="other">Other</option>
+                    </select>
+                </p>
+                <p>
+                    <label for="time">How long did you stay in Madeira?</label>
+                    <select id="time" name="time">
+                        <option value="1week">Up to 1 week</option>
+                        <option value="2week">Up to 2 weeks</option>
+                        <option value="4week">Up to a month</option>
+                        <option value="more">More than a month</option>
+                    </select>
+                </p>
+                <p>
+                    <label for="hotel">Where did you stay?</label>
+                    <textarea id="hotel" name="hotel" placeholder="ex.: the vine hotel" ></textarea>
+                </p>
+                <p>
+                    <label for="service">What kind of service did you have at the hotel?</label>
+                    <select id="service" name="service">
+                        <option value="break">Breakfast only</option>
+                        <option value="half">Half board</option>
+                        <option value="full">Full board</option>
+                        <option value="all">All-inclusive</option>
+                    </select>
+                </p>
+                <p>
+                    <label for="people">Including you, what is the total number of people you travelled with?</label>
+                    <input type="range" id="people" name="people" min="1" max="10" />
+                </p>
+                <p>
+                     What services did you use during your stay?
+                    <label for="restaurants">Restaurants</label><input id="restaurants" type="checkbox" name="services[]" value="restaurants" />
+                    <label for="outdoors">Outdoors Activities</label><input id="outdoors" type="checkbox" name="services[]" value="outdoors" />
+                    <label for="car">Rent-a-car</label><input id="car" type="checkbox" name="services[]" value="car" />
+                    <label for="shopping">Shopping / Souvenirs</label><input id="shopping" type="checkbox" name="services[]" value="shopping" />
+                    <label for="museums">Museums & Culture</label><input id="museums" type="checkbox" name="services[]" value="museumsculture" />
+                </p>
+                <p>
+                    <label for="spent">Overall how much did you spend on these services? (money)</label>
+                    <select id="spent" name="spent">
+                        <option value="less">Less than €500</option>
+                        <option value="between">Between €500 and 1000</option>
+                        <option value="more">More than €1000</option>
+                    </select>
+                </p>
+                <p>
+                    Would you like to have a discount card allowing to save more than €250 on these services?
+                    <label for="discount-yes">yes</label><input type="radio" id="discount-yes" name="discount" value="yes" />
+                    <label for="discount-no">no</label><input type="radio" id="discount-no" name="discount" value="no" />
+                </p>
+                <p>
+                    Would you like to have had a service that would tell you what are the best restaurants,activities,cultural events near you and according to your preferences?
+                    <label for="preference-yes">yes</label><input type="radio" id="preference-yes" name="preference" value="yes" />
+                    <label for="preference-no">no</label><input type="radio" id="preference-no" name="preference" value="no" />
+                </p>
+                <p>
+                    <label for="pay">If there was a discount card and services that would allow you to save more then €250 and give you the best tips for your daily what-to-do according to your preferences. How much would you pay to buy such a card?</label>
+                    <input type="number" id="pay" name="pay" />
+                </p>
+                <p>
+                    Do you use Internet on your phone or tablet?
+                    <label for="net-yes">yes</label><input type="radio" id="net-yes" name="net" value="yes" />
+                    <label for="net-no">no</label><input type="radio" id="net-no" name="net" value="no" />
+                </p>
+                <p>
+                    <a class="ui-btn save" onclick="javascript:appomat.app.save();">save it!</a>
+                </p>
+            </form>
+            
+	</div>
+</div>
+
+<div data-role="page" id="reports">
+	<div data-role="header" data-position="fixed">
+		<h1>Report</h1><a href="#home" data-icon="check" class="ui-btn-right">Done</a>
+	</div>
+	<div role="main" class="ui-content">
+		<p><span id="reports_num"></span> enqueries waiting to be send to server!</p>
+		<p>
+			<a class="ui-btn save" onclick="javascript:appomat.app.send();">send the reports!</a>
+		</p>
+	</div>
+</div>
+
+<div data-role="page" id="stats">
+	<div data-role="header" data-position="fixed">
+		<h1>Stats</h1><a href="#home" data-icon="check" class="ui-btn-right">Done</a>
+	</div>
+	<div role="main" class="ui-content">
+		<div>Total number of enquiries: #<span class="total_num_enquiries"></span></div>
+		<canvas id="charts-container" width="290" height="300"></canvas>
+	</div>
+</div>
+
+<script type="text/javascript" src="cordova.js"></script>
+<script type="text/javascript" src="js/Chart.min.js"></script>
+<script type="text/javascript" src="lib/fastclick/js/fastclick.js"></script>
+<script type="text/javascript" src="js/form2object.js"></script>
+<script type="text/javascript">
+	appomat.app.initialize();
+</script>
+</body>
+</html>

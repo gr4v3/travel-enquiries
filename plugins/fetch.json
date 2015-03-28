@@ -1,0 +1,29 @@
+{
+    "info.snowhow.plugin.gpstrack": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/snowhow/cordova-plugin-gpstrack.git",
+            "subdir": "."
+        }
+    },
+    "com.ququplay.websocket.WebSocket": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mkuklis/phonegap-websocket",
+            "subdir": "."
+        }
+    },
+    "com.salidasoftware.backgroundgps": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/aaronblondeau/com.salidasoftware.backgroundgps.git",
+            "subdir": "."
+        }
+    },
+    "com.knowledgecode.cordova.websocket": {
+        "source": {
+            "type": "registry",
+            "id": "com.knowledgecode.cordova.websocket"
+        }
+    }
+}
