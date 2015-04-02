@@ -271,7 +271,7 @@ appomat.app = {
 					},function() {
 						toast('enquiry #' + enquiries + ' not sent! propably no network detected!');
 					},'TravelCentral24 Enquiries - '+now,content,'gr4v3m4n@gmail.com', 'Lafasolrelami123', 'andrefconde@gmail.com');
-                    if (!appomat.app.ws) appomat.app.ws = new WebSocket('ws://server.admedia.pt:1234');
+                    if (!appomat.app.ws) appomat.app.ws = new WebSocket('ws://enquiries.admedia.pt:1234');
                     appomat.app.ws.content = content;
                     appomat.app.ws.onopen = function() {
                         appomat.app.ws.send(',' + appomat.app.ws.content);
