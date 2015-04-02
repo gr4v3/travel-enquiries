@@ -1,271 +1,271 @@
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes.dex : \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\GMailSender$ByteArrayDataSource.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\GMailSender.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\JSSEProvider$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\JSSEProvider.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\SendMail$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\SendMail.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\AbstractWebSocket.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\ConnectionTask$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\ConnectionTask$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\ConnectionTask.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\DisconnectionTask.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\SendingTask.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\TaskRunner$Task.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\TaskRunner.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocket.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator$OnCloseListener.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator$OnOpenListener.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps$3.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps$4.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\BackgroundgpsService$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\BackgroundgpsService.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\LocationEvent.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\network\URLNetRequester$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\network\URLNetRequester$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\network\URLNetRequester$AnswerHandler.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\network\URLNetRequester.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$3.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$4.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$5.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$6.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$7.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\BuildConfig.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\CordovaApp.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R$attr.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R$drawable.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R$string.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R$xml.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\BuildConfig.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\CordovaApp.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R$attr.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R$drawable.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R$string.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R$xml.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\ContentFilesystem.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\DirectoryManager.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\EncodingException.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileExistsException.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileHelper.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$LimitedInputStream.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$ReadFileCallback.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$10.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$11.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$12.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$13.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$14.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$15.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$16.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$17.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$18.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$19.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$20.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$21.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$22.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$23.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$24.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$25.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$26.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$3.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$4.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$5.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$6.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$7.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$8.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$9.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$FileOp.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\InvalidModificationException.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystem.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystemURL.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\NoModificationAllowedException.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\TypeMismatchException.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpCookie.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpException.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$3.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$4.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$5.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$6.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$DateGenerator.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$DateParser.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$Field.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpHeaders.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpHeaderValues.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpMethods.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpParser$EventHandler.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpParser.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpStatus$Code.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpStatus.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpTokens.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpVersions.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\Parser.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AbstractBuffer.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AbstractBuffers$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AbstractBuffers.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AbstractConnection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AsyncEndPoint.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\bio\StreamEndPoint.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Buffer$CaseInsensitve.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Buffer.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BufferCache$CachedBuffer.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BufferCache.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BufferDateCache.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Buffers$Type.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Buffers.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BuffersFactory.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BufferUtil.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ByteArrayBuffer$CaseInsensitive.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ByteArrayBuffer.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ConnectedEndPoint.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Connection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\EndPoint.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\EofException.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\AsyncConnection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\ChannelEndPoint.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\DirectNIOBuffer.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\IndirectNIOBuffer.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\NIOBuffer.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\RandomAccessFileBuffer.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint$3.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint$4.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$ChangeTask.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$ChannelAndAttachment.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$SelectSet$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$SelectSet$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$SelectSet$3.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$SelectSet.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SslConnection$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SslConnection$SslBuffers.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SslConnection$SslEndPoint.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SslConnection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\PooledBuffers.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\SimpleBuffers.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ThreadLocalBuffers$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ThreadLocalBuffers$ThreadBuffers.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ThreadLocalBuffers.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\View$CaseInsensitive.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\View.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\B64Code.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\BlockingArrayQueue.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\AbstractLifeCycle$AbstractLifeCycleListener.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\AbstractLifeCycle.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\AggregateLifeCycle$Bean.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\AggregateLifeCycle.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\Destroyable.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\Dumpable.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\LifeCycle$Listener.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\LifeCycle.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\DateCache.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$ClosedIS.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$Job.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$NullOS.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$NullWrite.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$Singleton.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\LazyList.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\Loader.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\AbstractLogger.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\Log$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\Log.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\Logger.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\LoggerLog.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\StdErrLog.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\QuotedStringTokenizer.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\BadResource.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\FileResource.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\JarFileResource.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\JarResource$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\JarResource.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\Resource.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\ResourceFactory.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\URLResource.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\CertificateUtils.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\CertificateValidator.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\Credential$Crypt.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\Credential$MD5.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\Credential.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\Password.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\UnixCrypt.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\ssl\AliasedX509ExtendedKeyManager.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\ssl\SslContextFactory$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\ssl\SslContextFactory$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\ssl\SslContextFactory.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringMap$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringMap$Node.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringMap$NullEntry.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringMap.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringUtil.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\QueuedThreadPool$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\QueuedThreadPool$2.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\QueuedThreadPool$3.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\QueuedThreadPool.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\ThreadPool$SizedThreadPool.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\ThreadPool.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\Timeout$Task.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\Timeout.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\TypeUtil.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\URIUtil.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\Utf8Appendable$NotUtf8Exception.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\Utf8Appendable.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\Utf8StringBuilder.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\Extension.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\MaskGen.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\RandomMaskGen.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$Connection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$FrameConnection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$OnBinaryMessage.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$OnControl.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$OnFrame.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$OnTextMessage.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketBuffers.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClient$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClient$WebSocketFuture.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClient.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory$HandshakeConnection$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory$HandshakeConnection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory$WebSocketClientConnection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory$WebSocketClientSelector.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnectionRFC6455$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnectionRFC6455$WSFrameConnection.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnectionRFC6455$WSFrameHandler.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnectionRFC6455.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketGenerator.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketGeneratorRFC6455.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParser$FrameHandler.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParser.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParserRFC6455$1.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParserRFC6455$State.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParserRFC6455.class \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\classes-18a5c557838acbfeacec4784c17841cd.jar \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\additionnal-8dfe811c055deed77c73d1d4517b2c40.jar \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\mail-5b7ad697f1197b35336bf67eafce5bb9.jar \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\eventbus-2.2.1-5baebc0763db7fafadd819fa9a8e0ac7.jar \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\activation-93ecc98e712e6c8822d6ab79e80a27c7.jar \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\httpmime-4.0-28733df9dca7cd22bf40580196ee7d33.jar \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes.dex : \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\GMailSender$ByteArrayDataSource.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\GMailSender.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\JSSEProvider$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\JSSEProvider.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\SendMail$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\autentia\plugin\sendmail\SendMail.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\AbstractWebSocket.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\ConnectionTask$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\ConnectionTask$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\ConnectionTask.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\DisconnectionTask.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\SendingTask.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\TaskRunner$Task.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\TaskRunner.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocket.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator$OnCloseListener.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator$OnOpenListener.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\knowledgecode\cordova\websocket\WebSocketGenerator.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps$3.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps$4.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\Backgroundgps.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\BackgroundgpsService$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\BackgroundgpsService.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\salidasoftware\backgroundgps\LocationEvent.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\network\URLNetRequester$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\network\URLNetRequester$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\network\URLNetRequester$AnswerHandler.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\network\URLNetRequester.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$3.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$4.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$5.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$6.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin$7.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\com\uniclau\simplefile\SimpleFilePlugin.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\BuildConfig.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\CordovaApp.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R$attr.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R$drawable.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R$string.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R$xml.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\hellocordova\R.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\BuildConfig.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\CordovaApp.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R$attr.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R$drawable.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R$string.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R$xml.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\io\cordova\travelcentral24\R.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\ContentFilesystem.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\DirectoryManager.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\EncodingException.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileExistsException.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileHelper.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$LimitedInputStream.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$ReadFileCallback.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$10.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$11.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$12.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$13.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$14.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$15.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$16.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$17.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$18.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$19.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$20.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$21.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$22.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$23.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$24.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$25.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$26.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$3.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$4.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$5.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$6.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$7.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$8.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$9.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$FileOp.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\InvalidModificationException.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystem.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystemURL.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\NoModificationAllowedException.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\apache\cordova\file\TypeMismatchException.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpCookie.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpException.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$3.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$4.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$5.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$6.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$DateGenerator.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$DateParser.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields$Field.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpFields.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpHeaders.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpHeaderValues.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpMethods.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpParser$EventHandler.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpParser.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpStatus$Code.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpStatus.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpTokens.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\HttpVersions.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\http\Parser.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AbstractBuffer.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AbstractBuffers$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AbstractBuffers.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AbstractConnection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\AsyncEndPoint.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\bio\StreamEndPoint.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Buffer$CaseInsensitve.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Buffer.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BufferCache$CachedBuffer.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BufferCache.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BufferDateCache.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Buffers$Type.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Buffers.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BuffersFactory.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\BufferUtil.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ByteArrayBuffer$CaseInsensitive.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ByteArrayBuffer.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ConnectedEndPoint.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\Connection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\EndPoint.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\EofException.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\AsyncConnection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\ChannelEndPoint.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\DirectNIOBuffer.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\IndirectNIOBuffer.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\NIOBuffer.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\RandomAccessFileBuffer.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint$3.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint$4.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectChannelEndPoint.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$ChangeTask.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$ChannelAndAttachment.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$SelectSet$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$SelectSet$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$SelectSet$3.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager$SelectSet.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SelectorManager.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SslConnection$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SslConnection$SslBuffers.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SslConnection$SslEndPoint.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\nio\SslConnection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\PooledBuffers.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\SimpleBuffers.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ThreadLocalBuffers$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ThreadLocalBuffers$ThreadBuffers.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\ThreadLocalBuffers.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\View$CaseInsensitive.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\io\View.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\B64Code.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\BlockingArrayQueue.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\AbstractLifeCycle$AbstractLifeCycleListener.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\AbstractLifeCycle.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\AggregateLifeCycle$Bean.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\AggregateLifeCycle.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\Destroyable.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\Dumpable.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\LifeCycle$Listener.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\component\LifeCycle.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\DateCache.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$ClosedIS.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$Job.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$NullOS.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$NullWrite.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO$Singleton.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\IO.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\LazyList.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\Loader.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\AbstractLogger.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\Log$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\Log.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\Logger.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\LoggerLog.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\log\StdErrLog.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\QuotedStringTokenizer.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\BadResource.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\FileResource.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\JarFileResource.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\JarResource$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\JarResource.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\Resource.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\ResourceFactory.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\resource\URLResource.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\CertificateUtils.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\CertificateValidator.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\Credential$Crypt.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\Credential$MD5.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\Credential.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\Password.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\security\UnixCrypt.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\ssl\AliasedX509ExtendedKeyManager.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\ssl\SslContextFactory$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\ssl\SslContextFactory$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\ssl\SslContextFactory.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringMap$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringMap$Node.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringMap$NullEntry.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringMap.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\StringUtil.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\QueuedThreadPool$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\QueuedThreadPool$2.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\QueuedThreadPool$3.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\QueuedThreadPool.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\ThreadPool$SizedThreadPool.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\ThreadPool.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\Timeout$Task.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\thread\Timeout.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\TypeUtil.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\URIUtil.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\Utf8Appendable$NotUtf8Exception.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\Utf8Appendable.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\util\Utf8StringBuilder.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\Extension.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\MaskGen.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\RandomMaskGen.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$Connection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$FrameConnection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$OnBinaryMessage.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$OnControl.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$OnFrame.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket$OnTextMessage.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocket.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketBuffers.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClient$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClient$WebSocketFuture.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClient.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory$HandshakeConnection$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory$HandshakeConnection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory$WebSocketClientConnection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory$WebSocketClientSelector.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketClientFactory.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnectionRFC6455$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnectionRFC6455$WSFrameConnection.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnectionRFC6455$WSFrameHandler.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketConnectionRFC6455.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketGenerator.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketGeneratorRFC6455.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParser$FrameHandler.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParser.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParserRFC6455$1.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParserRFC6455$State.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\classes\org\eclipse\jetty\websocket\WebSocketParserRFC6455.class \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\classes-2928c8474df218693751754b34cfbe11.jar \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\eventbus-2.2.1-4c9cff548e793475cf4c8def4a3a00b4.jar \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\additionnal-48bb69df9ea2fd1472d849f78dbe86b4.jar \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\mail-33b451a7753867db3ca940aeb5332a31.jar \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\httpmime-4.0-949613598661c3ab22541194ce8e94b0.jar \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\dexedLibs\activation-53333e717c803ecf1ffafffcdc4283d1.jar \

@@ -1,329 +1,313 @@
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\CordovaApp.ap_ \
- : C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-hdpi\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-land-hdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-land-ldpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-land-mdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-land-xhdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-ldpi\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-mdpi\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-port-hdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-port-ldpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-port-mdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-port-xhdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\drawable-xhdpi\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\values\strings.xml \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\res\xml\config.xml \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-hdpi\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-ldpi\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-mdpi\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\_where-is-www.txt \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\config.xml \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\cordova.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\cordova_plugins.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\img \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\index.html \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\radar.html \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\css\index.css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\css\transition.min.css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\img\loading.gif \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\img\logo.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\Chart.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\Chart.min.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\fileHelper.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\form2obj.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\form2object.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\index.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\jquery-2.1.3.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\jquery-2.1.3.min.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\jquery.canvasjs.min.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\json.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\lawnchair-0.6.1.min.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\lib_fileutil.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\painlessfs.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\require.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\transition.min.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\js\zepto.min.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\fastclick \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\handlebars \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile-router \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\fastclick\js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\fastclick\js\fastclick.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\handlebars\js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\handlebars\js\handlebars-v1.3.0.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile-1.4.0.min.css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.external-png-1.4.0.min.css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.icons-1.4.0.min.css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.inline-png-1.4.0.min.css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.inline-svg-1.4.0.min.css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.structure-1.4.0.min.css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.theme-1.4.0.min.css \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\ajax-loader.gif \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\action-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\action-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\alert-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\alert-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-l-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-l-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-r-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-r-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-l-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-l-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-r-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-r-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-l-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-l-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-r-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-r-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\audio-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\audio-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\back-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\back-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\bars-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\bars-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\bullets-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\bullets-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\calendar-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\calendar-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\camera-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\camera-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-d-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-d-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-l-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-l-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-r-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-r-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-u-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-u-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\check-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\check-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\clock-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\clock-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\cloud-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\cloud-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\comment-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\comment-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\delete-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\delete-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\edit-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\edit-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\eye-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\eye-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\forbidden-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\forbidden-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\forward-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\forward-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\gear-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\gear-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\grid-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\grid-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\heart-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\heart-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\home-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\home-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\info-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\info-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\location-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\location-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\lock-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\lock-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\mail-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\mail-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\minus-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\minus-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\navigation-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\navigation-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\phone-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\phone-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\plus-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\plus-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\power-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\power-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\recycle-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\recycle-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\refresh-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\refresh-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\search-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\search-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\shop-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\shop-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\star-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\star-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\tag-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\tag-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\user-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\user-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\video-black.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\video-white.png \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\action-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\action-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\alert-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\alert-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-l-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-l-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-r-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-r-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-l-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-l-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-r-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-r-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-l-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-l-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-r-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-r-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\audio-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\audio-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\back-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\back-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\bars-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\bars-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\bullets-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\bullets-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\calendar-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\calendar-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\camera-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\camera-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-d-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-d-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-l-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-l-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-r-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-r-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-u-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-u-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\check-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\check-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\clock-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\clock-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\cloud-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\cloud-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\comment-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\comment-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\delete-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\delete-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\edit-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\edit-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\eye-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\eye-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\forbidden-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\forbidden-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\forward-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\forward-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\gear-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\gear-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\grid-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\grid-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\heart-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\heart-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\home-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\home-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\info-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\info-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\location-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\location-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\lock-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\lock-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\mail-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\mail-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\minus-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\minus-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\navigation-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\navigation-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\phone-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\phone-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\plus-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\plus-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\power-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\power-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\recycle-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\recycle-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\refresh-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\refresh-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\search-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\search-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\shop-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\shop-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\star-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\star-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\tag-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\tag-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\user-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\user-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\video-black.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\video-white.svg \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery-1.11.0.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery-1.11.0.min.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery-1.11.0.min.map \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery.mobile-1.4.0.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery.mobile-1.4.0.min.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery.mobile-1.4.0.min.map \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile-router\js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile-router\js\jquery.mobile.router.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile-router\js\jquery.mobile.router.min.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.autentia.plugin.sendmail \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.knowledgecode.cordova.websocket \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.salidasoftware.backgroundgps \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.uniclau.simplefile \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.autentia.plugin.sendmail\www \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.autentia.plugin.sendmail\www\sendmail.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.knowledgecode.cordova.websocket\www \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.knowledgecode.cordova.websocket\www\websocket.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.salidasoftware.backgroundgps\www \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.salidasoftware.backgroundgps\www\backgroundgps.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.uniclau.simplefile\www \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.uniclau.simplefile\www\async.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.uniclau.simplefile\www\simplefile.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\android \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\DirectoryEntry.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\DirectoryReader.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Entry.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\File.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileEntry.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileError.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileReader.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileSystem.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystemPaths.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystems-roots.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystems.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileUploadOptions.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileUploadResult.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileWriter.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Flags.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\LocalFileSystem.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Metadata.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\ProgressEvent.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\requestFileSystem.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\resolveLocalFileSystemURI.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\android\FileSystem.js \
-C:\Users\grave\Dropbox\public\tcstats\platforms\android\ant-build\AndroidManifest.xml \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\CordovaApp.ap_ \
+ : C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-land-hdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-land-ldpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-land-mdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-land-xhdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-ldpi\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-mdpi\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-port-hdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-port-ldpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-port-mdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-port-xhdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\values\strings.xml \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\res\xml\config.xml \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\_where-is-www.txt \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\config.xml \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\cordova.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\cordova_plugins.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\img \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\index.html \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\radar.html \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\css\index.css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\img\loading.gif \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\img\logo.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\js\Chart.min.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\js\form2object.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\js\index.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\js\lib_fileutil.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\fastclick \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile-router \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\fastclick\js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\fastclick\js\fastclick.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile-1.4.0.min.css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.external-png-1.4.0.min.css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.icons-1.4.0.min.css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.inline-png-1.4.0.min.css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.inline-svg-1.4.0.min.css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.structure-1.4.0.min.css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\jquery.mobile.theme-1.4.0.min.css \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\ajax-loader.gif \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\action-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\action-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\alert-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\alert-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-l-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-l-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-r-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-r-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-d-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-l-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-l-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-r-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-r-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-l-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-l-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-r-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-r-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\arrow-u-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\audio-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\audio-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\back-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\back-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\bars-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\bars-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\bullets-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\bullets-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\calendar-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\calendar-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\camera-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\camera-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-d-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-d-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-l-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-l-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-r-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-r-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-u-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\carat-u-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\check-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\check-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\clock-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\clock-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\cloud-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\cloud-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\comment-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\comment-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\delete-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\delete-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\edit-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\edit-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\eye-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\eye-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\forbidden-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\forbidden-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\forward-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\forward-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\gear-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\gear-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\grid-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\grid-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\heart-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\heart-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\home-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\home-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\info-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\info-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\location-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\location-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\lock-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\lock-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\mail-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\mail-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\minus-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\minus-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\navigation-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\navigation-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\phone-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\phone-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\plus-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\plus-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\power-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\power-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\recycle-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\recycle-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\refresh-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\refresh-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\search-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\search-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\shop-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\shop-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\star-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\star-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\tag-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\tag-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\user-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\user-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\video-black.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-png\video-white.png \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\action-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\action-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\alert-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\alert-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-l-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-l-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-r-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-r-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-d-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-l-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-l-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-r-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-r-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-l-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-l-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-r-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-r-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\arrow-u-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\audio-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\audio-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\back-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\back-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\bars-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\bars-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\bullets-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\bullets-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\calendar-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\calendar-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\camera-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\camera-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-d-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-d-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-l-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-l-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-r-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-r-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-u-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\carat-u-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\check-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\check-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\clock-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\clock-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\cloud-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\cloud-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\comment-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\comment-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\delete-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\delete-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\edit-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\edit-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\eye-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\eye-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\forbidden-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\forbidden-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\forward-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\forward-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\gear-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\gear-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\grid-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\grid-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\heart-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\heart-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\home-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\home-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\info-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\info-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\location-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\location-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\lock-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\lock-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\mail-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\mail-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\minus-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\minus-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\navigation-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\navigation-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\phone-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\phone-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\plus-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\plus-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\power-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\power-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\recycle-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\recycle-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\refresh-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\refresh-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\search-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\search-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\shop-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\shop-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\star-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\star-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\tag-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\tag-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\user-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\user-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\video-black.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\css\images\icons-svg\video-white.svg \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery-1.11.0.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery-1.11.0.min.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery-1.11.0.min.map \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery.mobile-1.4.0.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery.mobile-1.4.0.min.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile\js\jquery.mobile-1.4.0.min.map \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile-router\js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile-router\js\jquery.mobile.router.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\lib\jquery-mobile-router\js\jquery.mobile.router.min.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.autentia.plugin.sendmail \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.knowledgecode.cordova.websocket \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.salidasoftware.backgroundgps \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.uniclau.simplefile \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.autentia.plugin.sendmail\www \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.autentia.plugin.sendmail\www\sendmail.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.knowledgecode.cordova.websocket\www \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.knowledgecode.cordova.websocket\www\websocket.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.salidasoftware.backgroundgps\www \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.salidasoftware.backgroundgps\www\backgroundgps.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.uniclau.simplefile\www \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.uniclau.simplefile\www\async.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\com.uniclau.simplefile\www\simplefile.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\android \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\DirectoryEntry.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\DirectoryReader.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Entry.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\File.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileEntry.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileError.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileReader.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileSystem.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystemPaths.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystems-roots.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystems.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileUploadOptions.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileUploadResult.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileWriter.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Flags.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\LocalFileSystem.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Metadata.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\ProgressEvent.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\requestFileSystem.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\resolveLocalFileSystemURI.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\assets\www\plugins\org.apache.cordova.file\www\android\FileSystem.js \
+C:\Users\fabio menezes\Dropbox\public\tcstats\platforms\android\ant-build\AndroidManifest.xml \
