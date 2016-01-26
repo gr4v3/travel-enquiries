@@ -1,0 +1,213 @@
+<enquiry class="app-page"> 
+    <header class="header-bar">
+        <div class="left">
+            <button class="btn pull-left icon icon-arrow-back" data-navigation="main"></button>
+            <h1 class="title">Enquiry #<span id="enquiry_counter"></span></h1>
+        </div>
+    </header>
+
+    <div class="content">
+        <div class="padded-full">
+            <form id="enquiry-form" class="phone-12 tablet-12 list" method="post" onsubmit="return false;">
+                <input type="hidden" id="enquiry_id" name="enquiry_id" /> 
+                <!-- #01 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <label for="nationality">Where are you from?</label>
+                    <select id="nationality" name="nationality" required>
+                        <option value="uk">UK</option>
+                        <option value="netherlands">Netherlands</option>
+                        <option value="france">France</option>
+                        <option value="germany">Germany</option>
+                        <option value="portugal">Portugal</option>
+                        <option value="candinavian countries">Sandinavian countries</option>
+                        <option value="spain">Spain</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <!-- #02 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <label for="age">How old are you?</label>
+                    <input type="number" id="age" name="age" min="1" required />
+                </div>
+                <!-- #03 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <label for="long">How long is your stay in Madeira? (Answer in number of days.)</label>
+                    <input type="number" id="long" name="long" min="1" required/>
+                </div>
+                <!-- #04 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <label for="people">Including you, what is the total number of people you’re traveling with?</label>
+                    <input type="number" id="people" name="people" min="1" required/>
+                </div>
+                <!-- #05 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    Do you use the Internet on your phone/tablet during your stay?
+                    <ul class="list">
+                        <li class="padded-for-list">
+                            <label for="device-yes" class="radio"><input type="radio" id="device-yes" name="device" value="yes"/>yes<span></span></label>
+                        </li>
+                        <li class="padded-for-list">
+                            <label for="device-no" class="radio"><input type="radio" id="device-no" name="device" value="no"/>no<span></span></label>
+                        </li>
+                    </ul>
+                </div>
+                <!-- #06 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    Would you use Uber if it was available in Madeira?
+                    <ul class="list">
+                        <li class="padded-for-list">
+                            <label for="uber-yes" class="radio"><input type="radio" id="uber-yes" name="uber" value="yes"/>yes<span></span></label>
+                        </li>
+                        <li class="padded-for-list">
+                            <label for="uber-no" class="radio"><input type="radio" id="uber-no" name="uber" value="no"/>no<span></span></label>
+                        </li>
+                    </ul>
+                </div>
+                <!-- #07 -->
+                <div class="phone-12 tablet-12 input-wrapper importance">
+                    What are you looking for during your stay? Order by importance. (1 - Most important; 7 - Least important)
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="looking[]" data-value="Find new experiences that were not planned in advance." value="" onchange="looking.change(this);">
+                            Find new experiences that were not planned in advance.
+                            <span></span>
+                        </label>
+                    </li>
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="looking[]" data-value="Discover the island by myself, without booking anything." value="" onchange="looking.change(this);">
+                            Discover the island by myself, without booking anything.
+                            <span></span>
+                        </label>
+                    </li>
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="looking[]" data-value="Book activities with the best prices." value="" onchange="looking.change(this);">
+                            Book activities with the best prices.
+                            <span></span>
+                        </label>
+                    </li>
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="looking[]" data-value="Find the best restaurants." value="" onchange="looking.change(this);">
+                            Find the best restaurants.
+                            <span></span>
+                        </label>
+                    </li>
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="looking[]" data-value="Tour in group with other tourists." value="" onchange="looking.change(this);">
+                            Tour in group with other tourists.
+                            <span></span>
+                        </label>
+                    </li>
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="looking[]"  data-value="Tour with a private local expert guide." value=""  onchange="looking.change(this);">
+                            Tour with a private local expert guide.
+                            <span></span>
+                        </label>
+                    </li>
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="looking[]"  data-value="Have a 24/7 call-center to assist me." value=""  onchange="looking.change(this);">
+                            Have a 24/7 call-center to assist me.
+                            <span></span>
+                        </label>
+                    </li>
+                </div>
+                <!-- #08 -->
+                <div class="phone-12 tablet-12 input-wrapper importance">
+                    When discovering the island, which themes are the most interesting? Order by importance. (1 - Most important; 4 - Least important)
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="interest[]" data-value="Nature and mountain." value="" onchange="interest.change(this);">
+                            Nature and mountain.
+                            <span></span>
+                        </label>
+                    </li>
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="interest[]" data-value="Sea and aquatic trips." value=""  onchange="interest.change(this);">
+                            Sea and aquatic trips.
+                            <span></span>
+                        </label>
+                    </li>
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="interest[]" data-value="Adventure and sports." value=""  onchange="interest.change(this);">
+                            Adventure and sports.
+                            <span></span>
+                        </label>
+                    </li>
+                    <li class="padded-for-list">
+                        <label class="checkbox">
+                            <input type="checkbox" class="" name="interest[]" data-value="Historical and cultural sites." value=""  onchange="interest.change(this);">
+                            Historical and cultural sites.
+                            <span></span>
+                        </label>
+                    </li>
+                </div>
+                <!-- #09 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <label for="tour">How many days do you plan to dedicate to tours and activities?</label>
+                    <select id="tour" name="tour" required>
+                        <option value="1">1 day.</option>
+                        <option value="2">2 days.</option>
+                        <option value="3">3 days.</option>
+                        <option value="more">More than 3 days.</option>
+                    </select>
+                </div>
+                <!-- #10 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <label for="money">How much money are you planning to spend on your tours and activities?</label>
+                    <select id="money" name="money" required>
+                        <option value="50">Up to €50.</option>
+                        <option value="100">Between €50 and €100.</option>
+                        <option value="250">Between €100 and €250.</option>
+                        <option value="more">More than €250.</option>
+                    </select>
+                </div>
+                <!-- #11 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <label for="overall">Overall, how much are you planning to spend during your stay? (Excluding flights and accommodation.)</label>
+                    <select id="overall" name="overall" required>
+                        <option value="500">Less than €500.</option>
+                        <option value="1000">Between €500 and €1000.</option>
+                        <option value="more">More than €1000.</option>
+                    </select>
+                </div>
+                <!-- #12 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    Would you buy a membership card that would make you save more than €250 during your stay?
+                    <ul class="list">
+                        <li class="padded-for-list">
+                            <label for="membership-yes" class="radio"><input type="radio" id="membership-yes" name="membership" value="yes"/>yes<span></span></label>
+                        </li>
+                        <li class="padded-for-list">
+                            <label for="membership-no" class="radio"><input type="radio" id="membership-no" name="membership" value="no"/>no<span></span></label>
+                        </li>
+                    </ul>
+                </div>
+                <!-- #13 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <label for="preferences">How valuable is an app that gives you access to the best restaurants and activities according to your preferences?</label>
+                    <select id="preferences" name="preferences" required>
+                        <option value="1">Very important. I would use it for sure.</option>
+                        <option value="2">Important. I would give it a try.</option>
+                        <option value="3">Not so important. It was easy to get all the information I need.</option>
+                        <option value="4">Not important at all. I would not use it.</option>
+                    </select>
+                </div>
+                <!-- #14 -->
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <label for="much">How much would you pay for this membership card with mobile app? (Give you access to the best restaurants and activities and make you save more than €250.)</label>
+                    <input type="number" id="much" name="much" required/>
+                </div>
+                <div class="phone-12 tablet-12 input-wrapper">
+                    <button class="btn fit-parent primary" onclick="enquiry.save(this.form);">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</enquiry>

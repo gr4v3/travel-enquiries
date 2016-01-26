@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/jan/2016, 14:29:17
+    Author     : fabio menezes
+*/
+
+.enquiry {
+    
+}
+.enquiry label {
+    height: initial;
+    line-height: initial;
+}
+.enquiry .input-wrapper {
+    
+}
+.enquiry .header-bar .title {
+    //line-height: initial;
+}
+.enquiry h1 {
+    margin:initial;
+}
+.enquiry .stats_title {
+    padding:2em 0;
+}
+.enquiry #stats_container {
+    background-color:#f3f3f3;
+    padding:4px;
+}
+.enquiry #stats_container .bar {
+    height:25px;
+    margin:4px;
+    position:relative;
+}
+.enquiry #stats_container .bar:before {
+    content: attr(data-title);
+    position: absolute;
+    left: 4px;
+    color: white;
+    font-size: 1.2em;
+    top: 2px;
+    z-index: 1;
+    width: 15em;
+    text-transform: uppercase;
+}
+.enquiry #stats_container .bar:nth-child(1) {
+    background-color:red;
+    color:white;
+}
+.enquiry #stats_container .bar:nth-child(2) {
+    background-color:green;
+    color:white;
+}
+.enquiry #stats_container .bar:nth-child(3) {
+    background-color:blue;
+    color:white;
+}
+.enquiry #stats_container .bar:nth-child(4) {
+    background-color:yellow;
+    color:black;
+}
+.enquiry #stats_container .bar:nth-child(5) {
+    background-color:#f4c5c3;
+    color:white;
+}
+.enquiry #stats_container .bar:nth-child(6) {
+    background-color:aquamarine;
+    color:black;
+}
+.enquiry #stats_container .bar:nth-child(7) {
+    background-color:tomato;
+    color:black;
+}
+.enquiry #stats_container .bar:nth-child(8) {
+    background-color:#2e2bc9;
+    color:white;
+}
+.enquiry #stats_container .bar:nth-child(9) {
+    background-color:chartreuse;
+    color:black;
+}
+.enquiry .importance input[type='checkbox']:checked + span {
+    transform: initial;
+    -webkit-transform: initial;
+    border: initial;
+    font-size: 2em;
+    top: 6px;
+}
+.enquiry .importance input[type='checkbox']:checked + span:before {
+    content:attr(data-value);
+}
