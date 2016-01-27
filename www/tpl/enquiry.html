@@ -8,8 +8,8 @@
 
     <div class="content">
         <div class="padded-full">
-            <form id="enquiry-form" class="phone-12 tablet-12 list" method="post" onsubmit="return false;">
-                <input type="hidden" id="enquiry_id" name="enquiry_id" /> 
+            <form id="enquiry-form" class="phone-12 tablet-12 list" method="post" action="http://enquiries.admedia.pt/submit.php" target="enquiry-iframe">
+                <input type="hidden" id="enquiry_id" name="enquiry_id" />
                 <!-- #01 -->
                 <div class="phone-12 tablet-12 input-wrapper">
                     <label for="nationality">Where are you from?</label>
@@ -44,10 +44,10 @@
                     Do you use the Internet on your phone/tablet during your stay?
                     <ul class="list">
                         <li class="padded-for-list">
-                            <label for="device-yes" class="radio"><input type="radio" id="device-yes" name="device" value="yes"/>yes<span></span></label>
+                            <label for="device-yes" class="radio"><input type="radio" id="device-yes" name="device" value="1"/>yes<span></span></label>
                         </li>
                         <li class="padded-for-list">
-                            <label for="device-no" class="radio"><input type="radio" id="device-no" name="device" value="no"/>no<span></span></label>
+                            <label for="device-no" class="radio"><input type="radio" id="device-no" name="device" value="0"/>no<span></span></label>
                         </li>
                     </ul>
                 </div>
@@ -56,10 +56,10 @@
                     Would you use Uber if it was available in Madeira?
                     <ul class="list">
                         <li class="padded-for-list">
-                            <label for="uber-yes" class="radio"><input type="radio" id="uber-yes" name="uber" value="yes"/>yes<span></span></label>
+                            <label for="uber-yes" class="radio"><input type="radio" id="uber-yes" name="uber" value="1"/>yes<span></span></label>
                         </li>
                         <li class="padded-for-list">
-                            <label for="uber-no" class="radio"><input type="radio" id="uber-no" name="uber" value="no"/>no<span></span></label>
+                            <label for="uber-no" class="radio"><input type="radio" id="uber-no" name="uber" value="0"/>no<span></span></label>
                         </li>
                     </ul>
                 </div>
@@ -68,49 +68,49 @@
                     What are you looking for during your stay? Order by importance. (1 - Most important; 7 - Least important)
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="advance" value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[advance]" value="" onchange="looking.change(this);">
                             Find new experiences that were not planned in advance.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="anything" value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[anything]" value="" onchange="looking.change(this);">
                             Discover the island by myself, without booking anything.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="prices" value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[prices]" value="" onchange="looking.change(this);">
                             Book activities with the best prices.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="restaurants" value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[restaurants]" value="" onchange="looking.change(this);">
                             Find the best restaurants.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="tourists" value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[tourists]" value="" onchange="looking.change(this);">
                             Tour in group with other tourists.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]"  data-value="guide" value=""  onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[guide]" value=""  onchange="looking.change(this);">
                             Tour with a private local expert guide.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]"  data-value="me" value=""  onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[me]" value=""  onchange="looking.change(this);">
                             Have a 24/7 call-center to assist me.
                             <span></span>
                         </label>
@@ -121,28 +121,28 @@
                     When discovering the island, which themes are the most interesting? Order by importance. (1 - Most important; 4 - Least important)
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="interest[]" data-value="mountain" value="" onchange="interest.change(this);">
+                            <input type="checkbox" class="" name="interest[mountain]" value="" onchange="interest.change(this);">
                             Nature and mountain.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="interest[]" data-value="trips" value=""  onchange="interest.change(this);">
+                            <input type="checkbox" class="" name="interest[trips]" value="" onchange="interest.change(this);">
                             Sea and aquatic trips.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="interest[]" data-value="sports" value=""  onchange="interest.change(this);">
+                            <input type="checkbox" class="" name="interest[sports]" value="" onchange="interest.change(this);">
                             Adventure and sports.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="interest[]" data-value="sites" value=""  onchange="interest.change(this);">
+                            <input type="checkbox" class="" name="interest[sites]" value="" onchange="interest.change(this);">
                             Historical and cultural sites.
                             <span></span>
                         </label>
@@ -182,10 +182,10 @@
                     Would you buy a membership card that would make you save more than €250 during your stay?
                     <ul class="list">
                         <li class="padded-for-list">
-                            <label for="membership-yes" class="radio"><input type="radio" id="membership-yes" name="membership" value="yes"/>yes<span></span></label>
+                            <label for="membership-yes" class="radio"><input type="radio" id="membership-yes" name="membership" value="1"/>yes<span></span></label>
                         </li>
                         <li class="padded-for-list">
-                            <label for="membership-no" class="radio"><input type="radio" id="membership-no" name="membership" value="no"/>no<span></span></label>
+                            <label for="membership-no" class="radio"><input type="radio" id="membership-no" name="membership" value="0"/>no<span></span></label>
                         </li>
                     </ul>
                 </div>
@@ -205,9 +205,10 @@
                     <input type="number" id="much" name="much" min="250" required/>
                 </div>
                 <div class="phone-12 tablet-12 input-wrapper">
-                    <button class="btn fit-parent primary" onclick="enquiry.save(this.form);">Submit</button>
+                    <input class="btn fit-parent primary" type="submit" value="submit" />
                 </div>
             </form>
+            <iframe id="enquiry-iframe" name="enquiry-iframe" style="display:none;"></iframe>
         </div>
     </div>
 </enquiry>

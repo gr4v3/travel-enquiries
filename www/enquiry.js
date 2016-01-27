@@ -107,12 +107,22 @@ var enquiry = {
     },
     form:function() {
         var form = document.getElementById('enquiry-form');
-        if (form) form.reset();
-        enquiry.getstats(function(stats) {
-            var enquiry_num = strPad(stats.total + 1, 6);
-            document.getElementById('enquiry_id').value = enquiry_num;
-            document.getElementById('enquiry_counter').innerText = enquiry_num;
-        });
+        if (form) {
+            var iframe = document.getElementById('enquiry-iframe');
+                iframe.onload = function() {
+                    enquiry.save(form);
+                    iframe.onload = function() {};
+                };
+            form.reset();
+            interest.checked = 0;
+            looking.checked = 0;
+            enquiry.getstats(function(stats) {
+                var enquiry_num = stats.total + 1;
+                document.getElementById('enquiry_id').value = enquiry_num + enquiry.username;
+                document.getElementById('enquiry_counter').innerText = strPad(enquiry_num, 6);
+            });
+        }
+        
     },
     reports:function() {
         var reports_num = document.getElementById('reports_num');
@@ -171,22 +181,6 @@ var enquiry = {
         });
     },
     save:function(form) {
-        var warnings = [];
-        var elements = form.elements;
-        if (!elements.device.value.length) warnings.push({element:elements.device, text:'Please select yes or no!'});
-        if (!elements.uber.value.length) warnings.push({element:elements.uber, text:'Please select yes or no!'});
-        if (!elements.membership.value.length) warnings.push({element:elements.membership, text:'Please select yes or no!'});
-        
-        if (warnings.length) {
-            /*
-            var message = [];
-            warnings.forEach(function(item) {
-                message.push(item.element.labels[0].innerText);
-            });
-            toast('The following fields have incorrect data:<br />' + message.join('<br />'));*/
-            return false;
-        }
-        
         var now = new Date().toISOString();
         var formobj = form2object(form);
             formobj.username = enquiry.username;
@@ -241,7 +235,7 @@ var enquiry = {
 var looking = {
     checked:0,
     change:function(element) {
-        if (element.checked) {this.checked+=1;element.value = element.dataset.value+'-'+this.checked;}
+        if (element.checked) {this.checked+=1;element.value = this.checked;}
         else {this.checked-=1;element.value = '';}
         element.nextElementSibling.dataset.value = this.checked;
     }
@@ -249,7 +243,7 @@ var looking = {
 var interest = {
     checked:0,
     change:function(element) {
-        if (element.checked) {this.checked+=1;element.value = element.dataset.value+'-'+this.checked;}
+        if (element.checked) {this.checked+=1;element.value = this.checked;}
         else {this.checked-=1;element.value = '';}
         element.nextElementSibling.dataset.value = this.checked;
     }
