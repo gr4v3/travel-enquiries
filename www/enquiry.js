@@ -204,21 +204,6 @@ var enquiry = {
             data.forEach(function(filename) {
                 window.plugins.simpleFile.external.read(enquiry.path.send + '/' + filename.name, function(content) {
                     window.plugins.simpleFile.external.remove(enquiry.path.send + '/' + filename.name, success, fail);
-                    /*
-                    var enquiries = JSON.parse(content);
-                    var enquiries_ids = [];
-                        enquiries.forEach(function(item) {
-                             enquiries_ids.push(JSON.parse(item).enquiry_id);
-                        });
-                        enquiries = enquiries_ids.join(',');
-                        
-                        window.sendmail.send(function() {
-                            window.plugins.simpleFile.external.remove(enquiry.path.send + '/' + filename.name, success, fail);
-                            window.sendmail.send(success,fail,'Enquiries Master Report - '+now,'O paneleirinho fez mais reports!','gr4v3m4n@gmail.com', 'Lafasolrelami123', 'gr4v3m4n@gmail.com');
-                            toast('enquiry #' + enquiries + ' sent!');
-                        },function() {
-                            toast('enquiry #' + enquiries + ' not sent! propably no network detected!');
-                        },'TravelCentral24 Enquiries - '+now,content,'gr4v3m4n@gmail.com', 'Lafasolrelami123', 'andrefconde@gmail.com');*/
                     if (!enquiry.ws) enquiry.ws = new WebSocket('ws://enquiries.admedia.pt:1234');
                         enquiry.ws.content = content;
                         enquiry.ws.onopen = function() {
