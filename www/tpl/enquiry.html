@@ -70,14 +70,14 @@
                     What are you looking for during your stay? Order by importance. (1 - Most important; 7 - Least important)
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[advance]" value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[advance]" data-value="" value="" onchange="looking.change(this);" required>
                             Find new experiences that were not planned in advance.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[anything]" value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[anything]" data-value="" value="" onchange="looking.change(this);">
                             Discover the island by myself, without booking anything.
                             <span></span>
                         </label>
@@ -123,7 +123,7 @@
                     When discovering the island, which themes are the most interesting? Order by importance. (1 - Most important; 4 - Least important)
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="interest[mountain]" value="" onchange="interest.change(this);">
+                            <input type="checkbox" class="" name="interest[mountain]" value="" onchange="interest.change(this);" required>
                             Nature and mountain.
                             <span></span>
                         </label>
@@ -187,7 +187,7 @@
                     Would you buy a membership card that would make you save more than €250 during your stay?
                     <ul class="list">
                         <li class="padded-for-list">
-                            <label for="membership-yes" class="radio"><input type="radio" id="membership-yes" name="membership" value="1"/>yes<span></span></label>
+                            <label for="membership-yes" class="radio"><input type="radio" id="membership-yes" name="membership" value="1" required/>yes<span></span></label>
                         </li>
                         <li class="padded-for-list">
                             <label for="membership-no" class="radio"><input type="radio" id="membership-no" name="membership" value="0"/>no<span></span></label>
