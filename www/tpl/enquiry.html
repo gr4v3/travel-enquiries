@@ -27,12 +27,12 @@
                 <!-- #02 -->
                 <div class="phone-12 tablet-12 input-wrapper">
                     <label for="age">How old are you?</label>
-                    <input type="number" id="age" name="age" min="1" required />
+                    <input type="number" id="age" name="age" min="1" max="100" required />
                 </div>
                 <!-- #03 -->
                 <div class="phone-12 tablet-12 input-wrapper">
-                    <label for="long">How long is your stay in Madeira? (Answer in number of days.)</label>
-                    <input type="number" id="long" name="long" min="1" required/>
+                    <label for="longstay">How long is your stay in Madeira? (Answer in number of days.)</label>
+                    <input type="number" id="longstay" name="longstay" min="1" required/>
                 </div>
                 <!-- #04 -->
                 <div class="phone-12 tablet-12 input-wrapper">
@@ -68,49 +68,49 @@
                     What are you looking for during your stay? Order by importance. (1 - Most important; 7 - Least important)
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="Find new experiences that were not planned in advance." value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[]" data-value="advance" value="" onchange="looking.change(this);">
                             Find new experiences that were not planned in advance.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="Discover the island by myself, without booking anything." value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[]" data-value="anything" value="" onchange="looking.change(this);">
                             Discover the island by myself, without booking anything.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="Book activities with the best prices." value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[]" data-value="prices" value="" onchange="looking.change(this);">
                             Book activities with the best prices.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="Find the best restaurants." value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[]" data-value="restaurants" value="" onchange="looking.change(this);">
                             Find the best restaurants.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]" data-value="Tour in group with other tourists." value="" onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[]" data-value="tourists" value="" onchange="looking.change(this);">
                             Tour in group with other tourists.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]"  data-value="Tour with a private local expert guide." value=""  onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[]"  data-value="guide" value=""  onchange="looking.change(this);">
                             Tour with a private local expert guide.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="looking[]"  data-value="Have a 24/7 call-center to assist me." value=""  onchange="looking.change(this);">
+                            <input type="checkbox" class="" name="looking[]"  data-value="me" value=""  onchange="looking.change(this);">
                             Have a 24/7 call-center to assist me.
                             <span></span>
                         </label>
@@ -121,28 +121,28 @@
                     When discovering the island, which themes are the most interesting? Order by importance. (1 - Most important; 4 - Least important)
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="interest[]" data-value="Nature and mountain." value="" onchange="interest.change(this);">
+                            <input type="checkbox" class="" name="interest[]" data-value="mountain" value="" onchange="interest.change(this);">
                             Nature and mountain.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="interest[]" data-value="Sea and aquatic trips." value=""  onchange="interest.change(this);">
+                            <input type="checkbox" class="" name="interest[]" data-value="trips" value=""  onchange="interest.change(this);">
                             Sea and aquatic trips.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="interest[]" data-value="Adventure and sports." value=""  onchange="interest.change(this);">
+                            <input type="checkbox" class="" name="interest[]" data-value="sports" value=""  onchange="interest.change(this);">
                             Adventure and sports.
                             <span></span>
                         </label>
                     </li>
                     <li class="padded-for-list">
                         <label class="checkbox">
-                            <input type="checkbox" class="" name="interest[]" data-value="Historical and cultural sites." value=""  onchange="interest.change(this);">
+                            <input type="checkbox" class="" name="interest[]" data-value="sites" value=""  onchange="interest.change(this);">
                             Historical and cultural sites.
                             <span></span>
                         </label>
@@ -155,7 +155,7 @@
                         <option value="1">1 day.</option>
                         <option value="2">2 days.</option>
                         <option value="3">3 days.</option>
-                        <option value="more">More than 3 days.</option>
+                        <option value="999">More than 3 days.</option>
                     </select>
                 </div>
                 <!-- #10 -->
@@ -165,7 +165,7 @@
                         <option value="50">Up to €50.</option>
                         <option value="100">Between €50 and €100.</option>
                         <option value="250">Between €100 and €250.</option>
-                        <option value="more">More than €250.</option>
+                        <option value="999">More than €250.</option>
                     </select>
                 </div>
                 <!-- #11 -->
@@ -174,7 +174,7 @@
                     <select id="overall" name="overall" required>
                         <option value="500">Less than €500.</option>
                         <option value="1000">Between €500 and €1000.</option>
-                        <option value="more">More than €1000.</option>
+                        <option value="9999999">More than €1000.</option>
                     </select>
                 </div>
                 <!-- #12 -->
@@ -202,7 +202,7 @@
                 <!-- #14 -->
                 <div class="phone-12 tablet-12 input-wrapper">
                     <label for="much">How much would you pay for this membership card with mobile app? (Give you access to the best restaurants and activities and make you save more than €250.)</label>
-                    <input type="number" id="much" name="much" required/>
+                    <input type="number" id="much" name="much" min="250" required/>
                 </div>
                 <div class="phone-12 tablet-12 input-wrapper">
                     <button class="btn fit-parent primary" onclick="enquiry.save(this.form);">Submit</button>
