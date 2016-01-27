@@ -14,6 +14,7 @@
                 <div class="phone-12 tablet-12 input-wrapper">
                     <label for="nationality">Where are you from?</label>
                     <select id="nationality" name="nationality" required>
+                        <option value="">select an option</option>
                         <option value="uk">UK</option>
                         <option value="netherlands">Netherlands</option>
                         <option value="france">France</option>
@@ -44,7 +45,8 @@
                     Do you use the Internet on your phone/tablet during your stay?
                     <ul class="list">
                         <li class="padded-for-list">
-                            <label for="device-yes" class="radio"><input type="radio" id="device-yes" name="device" value="1"/>yes<span></span></label>
+                            
+                            <label for="device-yes" class="radio"><input type="radio" id="device-yes" name="device" value="1" required/>yes<span></span></label>
                         </li>
                         <li class="padded-for-list">
                             <label for="device-no" class="radio"><input type="radio" id="device-no" name="device" value="0"/>no<span></span></label>
@@ -56,7 +58,7 @@
                     Would you use Uber if it was available in Madeira?
                     <ul class="list">
                         <li class="padded-for-list">
-                            <label for="uber-yes" class="radio"><input type="radio" id="uber-yes" name="uber" value="1"/>yes<span></span></label>
+                            <label for="uber-yes" class="radio"><input type="radio" id="uber-yes" name="uber" value="1" required/>yes<span></span></label>
                         </li>
                         <li class="padded-for-list">
                             <label for="uber-no" class="radio"><input type="radio" id="uber-no" name="uber" value="0"/>no<span></span></label>
@@ -152,6 +154,7 @@
                 <div class="phone-12 tablet-12 input-wrapper">
                     <label for="tour">How many days do you plan to dedicate to tours and activities?</label>
                     <select id="tour" name="tour" required>
+                        <option value="">select an option</option>
                         <option value="1">1 day.</option>
                         <option value="2">2 days.</option>
                         <option value="3">3 days.</option>
@@ -162,6 +165,7 @@
                 <div class="phone-12 tablet-12 input-wrapper">
                     <label for="money">How much money are you planning to spend on your tours and activities?</label>
                     <select id="money" name="money" required>
+                        <option value="">select an option</option>
                         <option value="50">Up to €50.</option>
                         <option value="100">Between €50 and €100.</option>
                         <option value="250">Between €100 and €250.</option>
@@ -172,6 +176,7 @@
                 <div class="phone-12 tablet-12 input-wrapper">
                     <label for="overall">Overall, how much are you planning to spend during your stay? (Excluding flights and accommodation.)</label>
                     <select id="overall" name="overall" required>
+                        <option value="">select an option</option>
                         <option value="500">Less than €500.</option>
                         <option value="1000">Between €500 and €1000.</option>
                         <option value="9999999">More than €1000.</option>
@@ -193,6 +198,7 @@
                 <div class="phone-12 tablet-12 input-wrapper">
                     <label for="preferences">How valuable is an app that gives you access to the best restaurants and activities according to your preferences?</label>
                     <select id="preferences" name="preferences" required>
+                        <option value="">select an option</option>
                         <option value="1">Very important. I would use it for sure.</option>
                         <option value="2">Important. I would give it a try.</option>
                         <option value="3">Not so important. It was easy to get all the information I need.</option>

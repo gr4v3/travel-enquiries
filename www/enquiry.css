@@ -93,3 +93,16 @@ and open the template in the editor.
 .enquiry .importance input[type='checkbox']:checked + span:before {
     content:attr(data-value);
 }
+.enquiry select:invalid {
+    border-bottom-width: 2px!important;
+    border-color: #e53935!important;
+}
+.enquiry .checkbox input[type=checkbox], .enquiry .radio input[type=radio] {
+    display: block;
+    background-color: transparent;
+    width: 1px;
+    height: 1px;
+    position: absolute;
+    color: white;
+    right: -1px;
+}

@@ -108,6 +108,10 @@ var enquiry = {
     form:function() {
         var form = document.getElementById('enquiry-form');
         if (form) {
+            form.onsubmit = function() {
+                console.log(this);
+                return false;
+            };
             var iframe = document.getElementById('enquiry-iframe');
                 iframe.onload = function() {
                     enquiry.save(form);
